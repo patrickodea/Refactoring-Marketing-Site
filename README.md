@@ -1,2 +1,7 @@
 # Refactoring-Marketing-Site
-Will be refactoring a marketing agency's code. (Week1 Challenge)
+
+## Description
+This repository contains refractored codebase for a marking agency website that follows accesibility standards.  The website has been optimized for search engines and users should be able to navigate the site easily.
+
+![alt text](assests/images/challenge-1-final.png)
+
